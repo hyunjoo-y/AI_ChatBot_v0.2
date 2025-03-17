@@ -24,8 +24,12 @@
 
 ## 주요 개발 화면 및 영상 링크
 
+- 챗봇 대화 화면
+  
 <img width="411" alt="image" src="https://github.com/user-attachments/assets/c850145a-b22c-421c-9894-80c52a740d48" />
 
+- 유튜브 영상 링크
+  
 [![Watch the video](https://img.youtube.com/vi/74redrWJtpY/0.jpg)](https://www.youtube.com/watch?v=74redrWJtpY)
 
 ---
